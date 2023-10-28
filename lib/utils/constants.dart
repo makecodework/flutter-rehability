@@ -1,15 +1,23 @@
 // utils/constants.dart
-
 class AppConstants {
   // Base API URL
   static const String BASE_API_URL = "https://yourserver.com/api";
 
   // App name
-  static const String APP_NAME = "MediApp";
+  static const String APP_NAME = "Rehability";
 
   // Colors
+  // #6200EE
   static const PRIMARY_COLOR = 0xFF6200EE;
+  // #03DAC5
   static const ACCENT_COLOR = 0xFF03DAC5;
+  // Logo Colors
+  // #3c8d00
+  static const GREEN_COLOR = 0xFF3C8D00;
+  // #bd241c
+  static const RED_COLOR = 0xFFBD241C;
+  // #1163ad
+  static const BLUE_COLOR = 0xFF1163AD;
 
   // Route names
   static const String LOGIN = "/login";
